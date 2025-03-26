@@ -221,6 +221,30 @@ void UAdvancedFriendsLibrary::GetStoredRecentPlayersList(FBPUniqueNetId UniqueNe
 	}
 }
 
+const FOnlineUserPresence EmptyPresence;
+
+const FOnlineUserPresence UAdvancedFriendsLibrary::GetPresence(const FUniqueNetId& Id)
+{
+	// TODO: insert return statement here
+	if (IOnlineSubsystem* SteamOSS = IOnlineSubsystem::Get(STEAM_SUBSYSTEM))
+	{
+		// Get the steam presence interface
+		if (auto OnlinePresence = SteamOSS->GetPresenceInterface().Get())
+		{
+			TSharedPtr<FOnlineUserPresence> Presence;
+			EOnlineCachedResult::Type Result = OnlinePresence->GetCachedPresence(Id, Presence);
+
+			if(Presence.IsValid())
+			{
+				auto P = *Presence.Get();
+				return P;
+			}
+		}
+	}
+
+	return EmptyPresence;
+}
+
 void UAdvancedFriendsLibrary::GetStoredFriendsList(APlayerController *PlayerController, TArray<FBPFriendInfo> &FriendsList)
 {
 
@@ -253,7 +277,7 @@ void UAdvancedFriendsLibrary::GetStoredFriendsList(APlayerController *PlayerCont
 		for (int32 i = 0; i < FriendList.Num(); i++)
 		{
 			FBPFriendInfo BPF;
-			const FOnlineUserPresence& pres = FriendList[i]->GetPresence();
+			const FOnlineUserPresence pres = GetPresence(FriendList[i]->GetUserId().Get());
 
 			BPF.OnlineState = ((EBPOnlinePresenceState)((int32)pres.Status.State));
 			BPF.DisplayName = FriendList[i]->GetDisplayName();

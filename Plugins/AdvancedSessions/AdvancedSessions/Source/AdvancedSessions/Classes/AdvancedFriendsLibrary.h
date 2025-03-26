@@ -30,6 +30,8 @@ public:
 	
 	//********* Friend List Functions *************//
 
+	static const FOnlineUserPresence GetPresence(const FUniqueNetId& Id);
+	
 	// Sends an Invite to the current online session to a list of friends
 	UFUNCTION(BlueprintCallable, Category = "Online|AdvancedFriends|FriendsList", meta = (ExpandEnumAsExecs = "Result"))
 	static void SendSessionInviteToFriends(APlayerController *PlayerController, const TArray<FBPUniqueNetId> &Friends, EBlueprintResultSwitch &Result);

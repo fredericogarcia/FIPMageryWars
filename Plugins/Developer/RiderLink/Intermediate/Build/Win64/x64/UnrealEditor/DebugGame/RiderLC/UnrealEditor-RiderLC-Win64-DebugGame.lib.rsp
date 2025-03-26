@@ -7,6 +7,5 @@
 /IGNORE:4221
 /NODEFAULTLIB
 "C:\Development\MageryWars\Plugins\Developer\RiderLink\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\RiderLC\Module.RiderLC.cpp.obj"
-"C:\Development\MageryWars\Plugins\Developer\RiderLink\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\RiderLC\RiderLC.cpp.obj"
 "C:\Development\MageryWars\Plugins\Developer\RiderLink\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\RiderLC\Default.rc2.res"
 /OUT:"C:\Development\MageryWars\Plugins\Developer\RiderLink\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\RiderLC\UnrealEditor-RiderLC-Win64-DebugGame.lib"

@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\development\\magerywars\\plugins\\advancedsessions\\advancedsteamsessions\\intermediate\\build\\win64\\unrealgame\\inc\\advancedsteamsessions\\uht\\advancedsteamsessions.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\development\\magerywars\\intermediate\\build\\win64\\x64\\magerywars\\debuggame\\engine\\sharedpch.engine.project.nonoptimized.valapi.cpp20.inclorderunreal5_3.h.pch",
+        "Includes": [
+            "c:\\development\\magerywars\\plugins\\advancedsessions\\advancedsteamsessions\\intermediate\\build\\win64\\x64\\unrealgame\\debuggame\\advancedsteamsessions\\definitions.advancedsteamsessions.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

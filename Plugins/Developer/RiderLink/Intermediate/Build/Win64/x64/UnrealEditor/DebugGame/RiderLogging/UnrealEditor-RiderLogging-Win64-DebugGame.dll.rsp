@@ -37,8 +37,6 @@
 /FUNCTIONPADMIN:6
 /NOIMPLIB
 "C:\Development\MageryWars\Plugins\Developer\RiderLink\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\RiderLogging\Module.RiderLogging.cpp.obj"
-"C:\Development\MageryWars\Plugins\Developer\RiderLink\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\RiderLogging\RiderLogging.cpp.obj"
-"C:\Development\MageryWars\Plugins\Developer\RiderLink\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\RiderLogging\RiderOutputDevice.cpp.obj"
 "C:\Development\MageryWars\Plugins\Developer\RiderLink\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\RiderLogging\Default.rc2.res"
 "..\Intermediate\Build\Win64\x64\UnrealEditor\Development\Core\UnrealEditor-Core.lib"
 "C:\Development\MageryWars\Plugins\Developer\RiderLink\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\RD\UnrealEditor-RD-Win64-DebugGame.lib"

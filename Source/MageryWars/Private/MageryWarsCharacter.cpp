@@ -1,6 +1,3 @@
-// Fill out your copyright notice in the Description page of Project Settings.
-
-
 #include "MageryWarsCharacter.h"
 
 // Sets default values
@@ -9,6 +6,24 @@ AMageryWarsCharacter::AMageryWarsCharacter()
  	// Set this character to call Tick() every frame.  You can turn this off to improve performance if you don't need it.
 	PrimaryActorTick.bCanEverTick = true;
 
+	AbilitySystemComponent = CreateDefaultSubobject<UMageryWarsAbilitySystemComponent>("AbilitySystemComponent");
+	AbilitySystemComponent->SetIsReplicated(true);
+	AbilitySystemComponent->SetReplicationMode(EGameplayEffectReplicationMode::Full);
+
+	Attributes = CreateDefaultSubobject<UMageryWarsAttributeSet>("Attributes");
+
+	SetNetUpdateFrequency(100.f);
+
+}
+
+UMageryWarsAbilitySystemComponent* AMageryWarsCharacter::GetAbilitySystemComponent() const
+{
+	return AbilitySystemComponent;
+}
+
+UMageryWarsAttributeSet* AMageryWarsCharacter::GetAttributes() const
+{
+	return Attributes;
 }
 
 // Called when the game starts or when spawned

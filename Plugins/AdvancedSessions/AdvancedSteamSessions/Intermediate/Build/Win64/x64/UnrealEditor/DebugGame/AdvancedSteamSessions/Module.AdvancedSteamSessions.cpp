@@ -6,3 +6,8 @@
 #include "C:/Development/MageryWars/Plugins/AdvancedSessions/AdvancedSteamSessions/Intermediate/Build/Win64/UnrealEditor/Inc/AdvancedSteamSessions/UHT/SteamRequestGroupOfficersCallbackProxy.gen.cpp"
 #include "C:/Development/MageryWars/Plugins/AdvancedSessions/AdvancedSteamSessions/Intermediate/Build/Win64/UnrealEditor/Inc/AdvancedSteamSessions/UHT/SteamWSRequestUGCDetailsCallbackProxy.gen.cpp"
 #include "C:/Development/MageryWars/Plugins/AdvancedSessions/AdvancedSteamSessions/Intermediate/Build/Win64/x64/UnrealEditor/DebugGame/AdvancedSteamSessions/PerModuleInline.gen.cpp"
+#include "C:/Development/MageryWars/Plugins/AdvancedSessions/AdvancedSteamSessions/Source/AdvancedSteamSessions/Private/AdvancedSteamFriendsLibrary.cpp"
+#include "C:/Development/MageryWars/Plugins/AdvancedSessions/AdvancedSteamSessions/Source/AdvancedSteamSessions/Private/AdvancedSteamSessions.cpp"
+#include "C:/Development/MageryWars/Plugins/AdvancedSessions/AdvancedSteamSessions/Source/AdvancedSteamSessions/Private/AdvancedSteamWorkshopLibrary.cpp"
+#include "C:/Development/MageryWars/Plugins/AdvancedSessions/AdvancedSteamSessions/Source/AdvancedSteamSessions/Private/SteamRequestGroupOfficersCallbackProxy.cpp"
+#include "C:/Development/MageryWars/Plugins/AdvancedSessions/AdvancedSteamSessions/Source/AdvancedSteamSessions/Private/SteamWSRequestUGCDetailsCallbackProxy.cpp"
