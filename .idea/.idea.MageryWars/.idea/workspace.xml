@@ -13,9 +13,17 @@
   <component name="ChangeListManager">
     <list default="true" id="57e2eeb4-b898-4b86-a1ee-f6b9518f0204" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.MageryWars/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.MageryWars/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/_MageryWars/Blueprints/BP_GameInstance.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_MageryWars/Blueprints/BP_GameInstance.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Config/DefaultEngine.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Config/DefaultEngine.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Low_Poly_Viking_World/Maps/Map_01_Day.umap" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Low_Poly_Viking_World/Maps/Map_01_Day.umap" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Low_Poly_Viking_World/Maps/Map_01_Night.umap" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Low_Poly_Viking_World/Maps/Map_01_Night.umap" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/MegaMagicVFXBundle/DemoMaps/DemoMapMagicShields/MagicShieldsVFXDemoMap.umap" beforeDir="false" afterPath="$PROJECT_DIR$/Content/MegaMagicVFXBundle/DemoMaps/DemoMapMagicShields/MagicShieldsVFXDemoMap.umap" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/MegaMagicVFXBundle/VFX/MagicShieldsVFX/Essentials/Materials/M_WindWall.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/MegaMagicVFXBundle/VFX/MagicShieldsVFX/Essentials/Materials/M_WindWall.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/MegaMagicVFXBundle/VFX/MagicShieldsVFX/VFX/DefaultVersions/WindWall/Materials/MI_WindWall.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/MegaMagicVFXBundle/VFX/MagicShieldsVFX/VFX/DefaultVersions/WindWall/Materials/MI_WindWall.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/MegaMagicVFXBundle/VFX/MagicShieldsVFX/VFX/StylizedVersions/EnergyShieldStylized/Systems/N_EnergyShieldStylized.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/MegaMagicVFXBundle/VFX/MagicShieldsVFX/VFX/StylizedVersions/EnergyShieldStylized/Systems/N_EnergyShieldStylized.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/_MageryWars/Blueprints/BP_PlayerCharacter.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_MageryWars/Blueprints/BP_PlayerCharacter.uasset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Content/_MageryWars/Widgets/W_Lobby.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_MageryWars/Widgets/W_Lobby.uasset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Plugins/Developer/RiderLink/Intermediate/FileSystemMappings.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/Developer/RiderLink/Intermediate/FileSystemMappings.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/MageryWars/Public/MageryWarsCharacter.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/MageryWars/Public/MageryWarsCharacter.h" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -155,6 +163,7 @@
       <workItem from="1742503698473" duration="2288000" />
       <workItem from="1742988036584" duration="911000" />
       <workItem from="1742988972481" duration="5239000" />
+      <workItem from="1743071078878" duration="2687000" />
     </task>
     <servers />
   </component>

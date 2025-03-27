@@ -4,7 +4,6 @@
 #include "AbilitySystemInterface.h"
 #include "MageryWarsAbilitySystemComponent.h"
 #include "MageryWarsAttributeSet.h"
-
 #include "GameFramework/Character.h"
 #include "MageryWarsCharacter.generated.h"
 
