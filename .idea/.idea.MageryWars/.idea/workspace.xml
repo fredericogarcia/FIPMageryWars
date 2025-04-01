@@ -13,32 +13,35 @@
   <component name="ChangeListManager">
     <list default="true" id="57e2eeb4-b898-4b86-a1ee-f6b9518f0204" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.MageryWars/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.MageryWars/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Config/DefaultEngine.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Config/DefaultEngine.ini" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Config/DefaultGame.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Config/DefaultGame.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Maps/Map_01_Night.umap" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Maps/Map_01_Night.umap" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Maps/Map_World.umap" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Maps/Map_World.umap" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/_MageryWars/Blueprints/BP_GameInstance.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_MageryWars/Blueprints/BP_GameInstance.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/_MageryWars/Blueprints/BP_PlayerCharacter.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_MageryWars/Blueprints/BP_PlayerCharacter.uasset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Content/_MageryWars/Blueprints/BP_PlayerController.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_MageryWars/Blueprints/BP_PlayerController.uasset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Content/_MageryWars/Blueprints/BP_SpawnPoint.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_MageryWars/Blueprints/BP_SpawnPoint.uasset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Content/_MageryWars/Modes/Game/BP_Core_GameMode.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_MageryWars/Modes/Game/BP_Core_GameMode.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/_MageryWars/Modes/Lobby/BP_Lobby_Character.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_MageryWars/Modes/Lobby/BP_Lobby_Character.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/_MageryWars/Modes/Game/BP_PlayerState.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_MageryWars/Modes/Game/BP_PlayerState.uasset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Content/_MageryWars/Modes/Lobby/BP_Lobby_GameMode.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_MageryWars/Modes/Lobby/BP_Lobby_GameMode.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/_MageryWars/Modes/Lobby/BP_Lobby_PlayerController.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_MageryWars/Modes/Lobby/BP_Lobby_PlayerController.uasset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Content/_MageryWars/Widgets/W_Chat.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_MageryWars/Widgets/W_Chat.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Plugins/AdvancedSessions/AdvancedSessions/Binaries/Win64/UnrealEditor-AdvancedSessions-Win64-DebugGame.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/AdvancedSessions/AdvancedSessions/Binaries/Win64/UnrealEditor-AdvancedSessions-Win64-DebugGame.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Plugins/AdvancedSessions/AdvancedSessions/Intermediate/Build/Win64/UnrealEditor/Inc/AdvancedSessions/UHT/Timestamp" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/AdvancedSessions/AdvancedSessions/Intermediate/Build/Win64/UnrealEditor/Inc/AdvancedSessions/UHT/Timestamp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/_MageryWars/Widgets/W_HUD.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_MageryWars/Widgets/W_HUD.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/_MageryWars/Widgets/W_Lobby.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_MageryWars/Widgets/W_Lobby.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/_MageryWars/Widgets/W_PlayerName.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_MageryWars/Widgets/W_PlayerName.uasset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Plugins/AdvancedSessions/AdvancedSessions/Intermediate/Build/Win64/UnrealGame/Inc/AdvancedSessions/UHT/Timestamp" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/AdvancedSessions/AdvancedSessions/Intermediate/Build/Win64/UnrealGame/Inc/AdvancedSessions/UHT/Timestamp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Plugins/AdvancedSessions/AdvancedSessions/Intermediate/Build/Win64/x64/UnrealEditor/DebugGame/AdvancedSessions/LiveCodingInfo.json" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/AdvancedSessions/AdvancedSessions/Intermediate/Build/Win64/x64/UnrealEditor/DebugGame/AdvancedSessions/LiveCodingInfo.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Plugins/AdvancedSessions/AdvancedSessions/Intermediate/Build/Win64/x64/UnrealEditor/DebugGame/AdvancedSessions/LiveCodingInfo.json.old" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/AdvancedSessions/AdvancedSessions/Intermediate/Build/Win64/x64/UnrealEditor/DebugGame/AdvancedSessions/LiveCodingInfo.json.old" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Plugins/AdvancedSessions/AdvancedSessions/Intermediate/Build/Win64/x64/UnrealEditor/DebugGame/AdvancedSessions/Module.AdvancedSessions.3.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/AdvancedSessions/AdvancedSessions/Intermediate/Build/Win64/x64/UnrealEditor/DebugGame/AdvancedSessions/Module.AdvancedSessions.3.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Plugins/AdvancedSessions/AdvancedSessions/Intermediate/Build/Win64/x64/UnrealEditor/DebugGame/AdvancedSessions/Module.AdvancedSessions.3.cpp.dep.json" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/AdvancedSessions/AdvancedSessions/Intermediate/Build/Win64/x64/UnrealEditor/DebugGame/AdvancedSessions/Module.AdvancedSessions.3.cpp.dep.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Plugins/AdvancedSessions/AdvancedSessions/Intermediate/Build/Win64/x64/UnrealEditor/DebugGame/AdvancedSessions/Module.AdvancedSessions.3.cpp.old" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/AdvancedSessions/AdvancedSessions/Intermediate/Build/Win64/x64/UnrealEditor/DebugGame/AdvancedSessions/Module.AdvancedSessions.3.cpp.old" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Plugins/AdvancedSessions/AdvancedSessions/Intermediate/Build/Win64/x64/UnrealEditor/DebugGame/AdvancedSessions/UnrealEditor-AdvancedSessions-Win64-DebugGame.dll.rsp" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/AdvancedSessions/AdvancedSessions/Intermediate/Build/Win64/x64/UnrealEditor/DebugGame/AdvancedSessions/UnrealEditor-AdvancedSessions-Win64-DebugGame.dll.rsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Plugins/AdvancedSessions/AdvancedSessions/Intermediate/Build/Win64/x64/UnrealEditor/DebugGame/AdvancedSessions/UnrealEditor-AdvancedSessions-Win64-DebugGame.dll.rsp.old" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/AdvancedSessions/AdvancedSessions/Intermediate/Build/Win64/x64/UnrealEditor/DebugGame/AdvancedSessions/UnrealEditor-AdvancedSessions-Win64-DebugGame.dll.rsp.old" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Plugins/AdvancedSessions/AdvancedSessions/Intermediate/Build/Win64/x64/UnrealEditor/DebugGame/AdvancedSessions/UnrealEditor-AdvancedSessions-Win64-DebugGame.exp" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/AdvancedSessions/AdvancedSessions/Intermediate/Build/Win64/x64/UnrealEditor/DebugGame/AdvancedSessions/UnrealEditor-AdvancedSessions-Win64-DebugGame.exp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Plugins/AdvancedSessions/AdvancedSessions/Intermediate/Build/Win64/x64/UnrealEditor/DebugGame/AdvancedSessions/UnrealEditor-AdvancedSessions-Win64-DebugGame.lib.rsp" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/AdvancedSessions/AdvancedSessions/Intermediate/Build/Win64/x64/UnrealEditor/DebugGame/AdvancedSessions/UnrealEditor-AdvancedSessions-Win64-DebugGame.lib.rsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Plugins/AdvancedSessions/AdvancedSessions/Intermediate/Build/Win64/x64/UnrealEditor/DebugGame/AdvancedSessions/UnrealEditor-AdvancedSessions-Win64-DebugGame.lib.rsp.old" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/AdvancedSessions/AdvancedSessions/Intermediate/Build/Win64/x64/UnrealEditor/DebugGame/AdvancedSessions/UnrealEditor-AdvancedSessions-Win64-DebugGame.lib.rsp.old" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Plugins/AdvancedSessions/AdvancedSteamSessions/Intermediate/Build/Win64/UnrealEditor/Inc/AdvancedSteamSessions/UHT/Timestamp" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/AdvancedSessions/AdvancedSteamSessions/Intermediate/Build/Win64/UnrealEditor/Inc/AdvancedSteamSessions/UHT/Timestamp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plugins/AdvancedSessions/AdvancedSessions/Intermediate/Build/Win64/x64/UnrealGame/DebugGame/AdvancedSessions/LiveCodingInfo.json" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/AdvancedSessions/AdvancedSessions/Intermediate/Build/Win64/x64/UnrealGame/DebugGame/AdvancedSessions/LiveCodingInfo.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plugins/AdvancedSessions/AdvancedSessions/Intermediate/Build/Win64/x64/UnrealGame/DebugGame/AdvancedSessions/Module.AdvancedSessions.1.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/AdvancedSessions/AdvancedSessions/Intermediate/Build/Win64/x64/UnrealGame/DebugGame/AdvancedSessions/Module.AdvancedSessions.1.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plugins/AdvancedSessions/AdvancedSessions/Intermediate/Build/Win64/x64/UnrealGame/DebugGame/AdvancedSessions/Module.AdvancedSessions.1.cpp.dep.json" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/AdvancedSessions/AdvancedSessions/Intermediate/Build/Win64/x64/UnrealGame/DebugGame/AdvancedSessions/Module.AdvancedSessions.1.cpp.dep.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plugins/AdvancedSessions/AdvancedSessions/Intermediate/Build/Win64/x64/UnrealGame/DebugGame/AdvancedSessions/Module.AdvancedSessions.2.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/AdvancedSessions/AdvancedSessions/Intermediate/Build/Win64/x64/UnrealGame/DebugGame/AdvancedSessions/Module.AdvancedSessions.2.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plugins/AdvancedSessions/AdvancedSessions/Intermediate/Build/Win64/x64/UnrealGame/DebugGame/AdvancedSessions/Module.AdvancedSessions.2.cpp.dep.json" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/AdvancedSessions/AdvancedSessions/Intermediate/Build/Win64/x64/UnrealGame/DebugGame/AdvancedSessions/Module.AdvancedSessions.2.cpp.dep.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plugins/AdvancedSessions/AdvancedSessions/Intermediate/Build/Win64/x64/UnrealGame/Shipping/AdvancedSessions/Module.AdvancedSessions.1.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/AdvancedSessions/AdvancedSessions/Intermediate/Build/Win64/x64/UnrealGame/Shipping/AdvancedSessions/Module.AdvancedSessions.1.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plugins/AdvancedSessions/AdvancedSessions/Intermediate/Build/Win64/x64/UnrealGame/Shipping/AdvancedSessions/Module.AdvancedSessions.1.cpp.dep.json" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/AdvancedSessions/AdvancedSessions/Intermediate/Build/Win64/x64/UnrealGame/Shipping/AdvancedSessions/Module.AdvancedSessions.1.cpp.dep.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plugins/AdvancedSessions/AdvancedSessions/Intermediate/Build/Win64/x64/UnrealGame/Shipping/AdvancedSessions/Module.AdvancedSessions.2.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/AdvancedSessions/AdvancedSessions/Intermediate/Build/Win64/x64/UnrealGame/Shipping/AdvancedSessions/Module.AdvancedSessions.2.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plugins/AdvancedSessions/AdvancedSessions/Intermediate/Build/Win64/x64/UnrealGame/Shipping/AdvancedSessions/Module.AdvancedSessions.2.cpp.dep.json" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/AdvancedSessions/AdvancedSessions/Intermediate/Build/Win64/x64/UnrealGame/Shipping/AdvancedSessions/Module.AdvancedSessions.2.cpp.dep.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Plugins/AdvancedSessions/AdvancedSteamSessions/Intermediate/Build/Win64/UnrealGame/Inc/AdvancedSteamSessions/UHT/Timestamp" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/AdvancedSessions/AdvancedSteamSessions/Intermediate/Build/Win64/UnrealGame/Inc/AdvancedSteamSessions/UHT/Timestamp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plugins/AdvancedSessions/AdvancedSteamSessions/Intermediate/Build/Win64/x64/UnrealGame/DebugGame/AdvancedSteamSessions/LiveCodingInfo.json" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/AdvancedSessions/AdvancedSteamSessions/Intermediate/Build/Win64/x64/UnrealGame/DebugGame/AdvancedSteamSessions/LiveCodingInfo.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plugins/AdvancedSessions/AdvancedSteamSessions/Intermediate/Build/Win64/x64/UnrealGame/DebugGame/AdvancedSteamSessions/Module.AdvancedSteamSessions.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/AdvancedSessions/AdvancedSteamSessions/Intermediate/Build/Win64/x64/UnrealGame/DebugGame/AdvancedSteamSessions/Module.AdvancedSteamSessions.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plugins/AdvancedSessions/AdvancedSteamSessions/Intermediate/Build/Win64/x64/UnrealGame/DebugGame/AdvancedSteamSessions/Module.AdvancedSteamSessions.cpp.dep.json" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/AdvancedSessions/AdvancedSteamSessions/Intermediate/Build/Win64/x64/UnrealGame/DebugGame/AdvancedSteamSessions/Module.AdvancedSteamSessions.cpp.dep.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plugins/AdvancedSessions/AdvancedSteamSessions/Intermediate/Build/Win64/x64/UnrealGame/Shipping/AdvancedSteamSessions/Module.AdvancedSteamSessions.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/AdvancedSessions/AdvancedSteamSessions/Intermediate/Build/Win64/x64/UnrealGame/Shipping/AdvancedSteamSessions/Module.AdvancedSteamSessions.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plugins/AdvancedSessions/AdvancedSteamSessions/Intermediate/Build/Win64/x64/UnrealGame/Shipping/AdvancedSteamSessions/Module.AdvancedSteamSessions.cpp.dep.json" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/AdvancedSessions/AdvancedSteamSessions/Intermediate/Build/Win64/x64/UnrealGame/Shipping/AdvancedSteamSessions/Module.AdvancedSteamSessions.cpp.dep.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Plugins/Developer/RiderLink/Intermediate/FileSystemMappings.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/Developer/RiderLink/Intermediate/FileSystemMappings.ini" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -68,22 +71,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "C/C++ Project.MageryWars.executor": "Run",
-    "Notification.DisplayName-DoNotAsk-GitHub Copilot": "GitHub Copilot",
-    "Notification.DoNotAsk-GitHub Copilot": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;C/C++ Project.MageryWars.executor&quot;: &quot;Run&quot;,
+    &quot;Notification.DisplayName-DoNotAsk-GitHub Copilot&quot;: &quot;GitHub Copilot&quot;,
+    &quot;Notification.DoNotAsk-GitHub Copilot&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="C/C++ Project.MageryWars">
     <configuration name="MageryWars" type="CppProject" factoryName="C++ Project">
       <configuration_1 setup="1">
@@ -182,7 +185,9 @@
       <workItem from="1742988036584" duration="911000" />
       <workItem from="1742988972481" duration="5239000" />
       <workItem from="1743071078878" duration="3331000" />
-      <workItem from="1743416352371" duration="2524000" />
+      <workItem from="1743416352371" duration="3875000" />
+      <workItem from="1743434156824" duration="1898000" />
+      <workItem from="1743495818017" duration="6344000" />
     </task>
     <servers />
   </component>
