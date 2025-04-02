@@ -1,5 +1,6 @@
 #include "MageryWarsCharacter.h"
 
+
 // Sets default values
 AMageryWarsCharacter::AMageryWarsCharacter()
 {
@@ -8,7 +9,7 @@ AMageryWarsCharacter::AMageryWarsCharacter()
 
 	AbilitySystemComponent = CreateDefaultSubobject<UMageryWarsAbilitySystemComponent>("AbilitySystemComponent");
 	AbilitySystemComponent->SetIsReplicated(true);
-	AbilitySystemComponent->SetReplicationMode(EGameplayEffectReplicationMode::Full);
+	AbilitySystemComponent->SetReplicationMode(EGameplayEffectReplicationMode::Mixed);
 
 	Attributes = CreateDefaultSubobject<UMageryWarsAttributeSet>("Attributes");
 
@@ -46,4 +47,3 @@ void AMageryWarsCharacter::SetupPlayerInputComponent(UInputComponent* PlayerInpu
 	Super::SetupPlayerInputComponent(PlayerInputComponent);
 
 }
-
