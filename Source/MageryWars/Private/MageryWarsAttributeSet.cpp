@@ -64,12 +64,12 @@ void UMageryWarsAttributeSet::PostGameplayEffectExecute(const FGameplayEffectMod
 {
 	Super::PostGameplayEffectExecute(Data);
 
-	if (Data.EvaluatedData.Attribute == GetMaxHealthAttribute())
+	if (Data.EvaluatedData.Attribute == GetCurrentHealthAttribute())
 	{
 		SetCurrentHealth(FMath::Clamp(GetCurrentHealth(), 0.0f, GetMaxHealth()));
 	}
 	
-	if (Data.EvaluatedData.Attribute == GetCurrentHealthAttribute())
+	if (Data.EvaluatedData.Attribute == GetCurrentManaAttribute())
 	{
 		SetCurrentMana(FMath::Clamp(GetCurrentMana(), 0.0f, GetMaxMana()));
 	}
