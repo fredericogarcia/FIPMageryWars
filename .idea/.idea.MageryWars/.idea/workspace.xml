@@ -12,12 +12,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="57e2eeb4-b898-4b86-a1ee-f6b9518f0204" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Content/Maps/Map_World.umap" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Maps/Map_World.umap" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/MegaMagicVFXBundle/VFX/MagicAuraVFX/VFX/Meteor/Systems/N_Meteor.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/MegaMagicVFXBundle/VFX/MagicAuraVFX/VFX/Meteor/Systems/N_Meteor.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Plugins/AdvancedSessions/AdvancedSessions/Intermediate/Build/Win64/UnrealGame/Inc/AdvancedSessions/UHT/Timestamp" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/AdvancedSessions/AdvancedSessions/Intermediate/Build/Win64/UnrealGame/Inc/AdvancedSessions/UHT/Timestamp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Plugins/AdvancedSessions/AdvancedSteamSessions/Intermediate/Build/Win64/UnrealGame/Inc/AdvancedSteamSessions/UHT/Timestamp" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/AdvancedSessions/AdvancedSteamSessions/Intermediate/Build/Win64/UnrealGame/Inc/AdvancedSteamSessions/UHT/Timestamp" afterDir="false" />
-    </list>
+    <list default="true" id="57e2eeb4-b898-4b86-a1ee-f6b9518f0204" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -198,7 +193,7 @@
       <workItem from="1743614784331" duration="621000" />
       <workItem from="1743621380899" duration="6310000" />
       <workItem from="1743669213700" duration="4981000" />
-      <workItem from="1743678375435" duration="2048000" />
+      <workItem from="1743678375435" duration="2683000" />
     </task>
     <servers />
   </component>
