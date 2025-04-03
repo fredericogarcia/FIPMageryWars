@@ -5,6 +5,7 @@
 #include "C:/Development/MageryWars/Plugins/AdvancedSessions/AdvancedSessions/Source/AdvancedSessions/Private/AdvancedExternalUILibrary.cpp"
 #include "C:/Development/MageryWars/Plugins/AdvancedSessions/AdvancedSessions/Source/AdvancedSessions/Private/AdvancedFriendsGameInstance.cpp"
 #include "C:/Development/MageryWars/Plugins/AdvancedSessions/AdvancedSessions/Source/AdvancedSessions/Private/AdvancedFriendsInterface.cpp"
+#include "C:/Development/MageryWars/Plugins/AdvancedSessions/AdvancedSessions/Source/AdvancedSessions/Private/AdvancedFriendsLibrary.cpp"
 #include "C:/Development/MageryWars/Plugins/AdvancedSessions/AdvancedSessions/Source/AdvancedSessions/Private/AdvancedIdentityLibrary.cpp"
 #include "C:/Development/MageryWars/Plugins/AdvancedSessions/AdvancedSessions/Source/AdvancedSessions/Private/AdvancedSessions.cpp"
 #include "C:/Development/MageryWars/Plugins/AdvancedSessions/AdvancedSessions/Source/AdvancedSessions/Private/AdvancedSessionsLibrary.cpp"

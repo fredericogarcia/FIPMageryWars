@@ -39,16 +39,6 @@ public:
 	FGameplayAttributeData MaxMana;
 	ATTRIBUTE_ACCESSORS(UMageryWarsAttributeSet, MaxMana);
 
-	// Health Regeneration
-	UPROPERTY(BlueprintReadOnly, Category = "Attributes | Regeneration | Health", ReplicatedUsing = OnRep_HealthRegeneration);
-	FGameplayAttributeData HealthRegeneration;
-	ATTRIBUTE_ACCESSORS(UMageryWarsAttributeSet, HealthRegeneration);
-
-	// Mana Regeneration
-	UPROPERTY(BlueprintReadOnly, Category = "Attributes | Regeneration | Mana", ReplicatedUsing = OnRep_ManaRegeneration);
-	FGameplayAttributeData ManaRegeneration;
-	ATTRIBUTE_ACCESSORS(UMageryWarsAttributeSet, ManaRegeneration);
-
 protected:
 	// Replication Notifies
 	UFUNCTION()	
@@ -62,12 +52,6 @@ protected:
 
 	UFUNCTION()
 	virtual void OnRep_MaxMana(const FGameplayAttributeData& OldMaxMana);
-
-	UFUNCTION()	
-	virtual void OnRep_HealthRegeneration(const FGameplayAttributeData& OldHealthRegeneration);
-
-	UFUNCTION()
-	virtual void OnRep_ManaRegeneration(const FGameplayAttributeData& OldManaRegeneration);
 
 	// Attribute change handlers
 	virtual void PreAttributeChange(const FGameplayAttribute& Attribute, float& NewValue) override;

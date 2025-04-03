@@ -1,20 +1,11 @@
 #include "MageryWarsCharacter.h"
+#include "MageryWarsPlayerState.h"
 
 
 // Sets default values
-AMageryWarsCharacter::AMageryWarsCharacter()
+AMageryWarsCharacter::AMageryWarsCharacter(): AbilitySystemComponent(nullptr), Attributes(nullptr)
 {
- 	// Set this character to call Tick() every frame.  You can turn this off to improve performance if you don't need it.
 	PrimaryActorTick.bCanEverTick = true;
-
-	AbilitySystemComponent = CreateDefaultSubobject<UMageryWarsAbilitySystemComponent>("AbilitySystemComponent");
-	AbilitySystemComponent->SetIsReplicated(true);
-	AbilitySystemComponent->SetReplicationMode(EGameplayEffectReplicationMode::Mixed);
-
-	Attributes = CreateDefaultSubobject<UMageryWarsAttributeSet>("Attributes");
-
-	SetNetUpdateFrequency(100.f);
-
 }
 
 UMageryWarsAbilitySystemComponent* AMageryWarsCharacter::GetAbilitySystemComponent() const
@@ -22,28 +13,66 @@ UMageryWarsAbilitySystemComponent* AMageryWarsCharacter::GetAbilitySystemCompone
 	return AbilitySystemComponent;
 }
 
-UMageryWarsAttributeSet* AMageryWarsCharacter::GetAttributes() const
+UMageryWarsAttributeSet* AMageryWarsCharacter::GetAttributeSet() const
 {
 	return Attributes;
+}
+
+void AMageryWarsCharacter::GiveDefaultAbilities()
+{
+	check(AbilitySystemComponent);
+	
+	if(!HasAuthority()) return;
+	
+	for(const TSubclassOf AbilityClass : DefaultAbilities)
+	{
+		const FGameplayAbilitySpec AbilitySpec(AbilityClass, 1);
+		AbilitySystemComponent->GiveAbility(AbilitySpec);
+	}
+}
+
+void AMageryWarsCharacter::OnRep_PlayerState() // by server
+{
+	Super::OnRep_PlayerState();
+
+	if (AMageryWarsPlayerState* PS = GetPlayerState<AMageryWarsPlayerState>())
+	{
+		AbilitySystemComponent = Cast<UMageryWarsAbilitySystemComponent>(PS->GetAbilitySystemComponent());
+		AbilitySystemComponent->InitAbilityActorInfo(PS, this);
+		Attributes = PS->GetAttributeSet();
+
+		GiveDefaultAbilities();
+	}
+}
+
+void AMageryWarsCharacter::PossessedBy(AController* NewController) // by client
+{
+	Super::PossessedBy(NewController);
+
+	if (AMageryWarsPlayerState* PS = GetPlayerState<AMageryWarsPlayerState>())
+	{
+		AbilitySystemComponent = Cast<UMageryWarsAbilitySystemComponent>(PS->GetAbilitySystemComponent());
+		AbilitySystemComponent->InitAbilityActorInfo(PS, this);
+		Attributes = PS->GetAttributeSet();
+
+		GiveDefaultAbilities();
+	}
 }
 
 // Called when the game starts or when spawned
 void AMageryWarsCharacter::BeginPlay()
 {
 	Super::BeginPlay();
-	
 }
 
 // Called every frame
 void AMageryWarsCharacter::Tick(float DeltaTime)
 {
 	Super::Tick(DeltaTime);
-
 }
 
 // Called to bind functionality to input
 void AMageryWarsCharacter::SetupPlayerInputComponent(UInputComponent* PlayerInputComponent)
 {
 	Super::SetupPlayerInputComponent(PlayerInputComponent);
-
 }

@@ -2540,8 +2540,14 @@ struct Z_Construct_UClass_UAdvancedSessionsLibrary_Statics
 {
 #if WITH_METADATA
 	static constexpr UECodeGen_Private::FMetaDataPairParam Class_MetaDataParams[] = {
+#if !UE_BUILD_SHIPPING
+		{ "Comment", "//class UAdvancedSessionsLibrary : public UBlueprintFunctionLibrary\n" },
+#endif
 		{ "IncludePath", "AdvancedSessionsLibrary.h" },
 		{ "ModuleRelativePath", "Classes/AdvancedSessionsLibrary.h" },
+#if !UE_BUILD_SHIPPING
+		{ "ToolTip", "class UAdvancedSessionsLibrary : public UBlueprintFunctionLibrary" },
+#endif
 	};
 #endif // WITH_METADATA
 	static UObject* (*const DependentSingletons[])();
@@ -2608,7 +2614,7 @@ const UECodeGen_Private::FClassParams Z_Construct_UClass_UAdvancedSessionsLibrar
 	UE_ARRAY_COUNT(FuncInfo),
 	0,
 	0,
-	0x000000A0u,
+	0x001000A0u,
 	METADATA_PARAMS(UE_ARRAY_COUNT(Z_Construct_UClass_UAdvancedSessionsLibrary_Statics::Class_MetaDataParams), Z_Construct_UClass_UAdvancedSessionsLibrary_Statics::Class_MetaDataParams)
 };
 UClass* Z_Construct_UClass_UAdvancedSessionsLibrary()
@@ -2632,10 +2638,10 @@ UAdvancedSessionsLibrary::~UAdvancedSessionsLibrary() {}
 struct Z_CompiledInDeferFile_FID_Development_MageryWars_Plugins_AdvancedSessions_AdvancedSessions_Source_AdvancedSessions_Classes_AdvancedSessionsLibrary_h_Statics
 {
 	static constexpr FClassRegisterCompiledInInfo ClassInfo[] = {
-		{ Z_Construct_UClass_UAdvancedSessionsLibrary, UAdvancedSessionsLibrary::StaticClass, TEXT("UAdvancedSessionsLibrary"), &Z_Registration_Info_UClass_UAdvancedSessionsLibrary, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(UAdvancedSessionsLibrary), 2946818799U) },
+		{ Z_Construct_UClass_UAdvancedSessionsLibrary, UAdvancedSessionsLibrary::StaticClass, TEXT("UAdvancedSessionsLibrary"), &Z_Registration_Info_UClass_UAdvancedSessionsLibrary, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(UAdvancedSessionsLibrary), 88131533U) },
 	};
 };
-static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Development_MageryWars_Plugins_AdvancedSessions_AdvancedSessions_Source_AdvancedSessions_Classes_AdvancedSessionsLibrary_h_3631478302(TEXT("/Script/AdvancedSessions"),
+static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Development_MageryWars_Plugins_AdvancedSessions_AdvancedSessions_Source_AdvancedSessions_Classes_AdvancedSessionsLibrary_h_1344683867(TEXT("/Script/AdvancedSessions"),
 	Z_CompiledInDeferFile_FID_Development_MageryWars_Plugins_AdvancedSessions_AdvancedSessions_Source_AdvancedSessions_Classes_AdvancedSessionsLibrary_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Development_MageryWars_Plugins_AdvancedSessions_AdvancedSessions_Source_AdvancedSessions_Classes_AdvancedSessionsLibrary_h_Statics::ClassInfo),
 	nullptr, 0,
 	nullptr, 0);

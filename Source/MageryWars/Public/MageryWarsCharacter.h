@@ -17,8 +17,11 @@ public:
 	AMageryWarsCharacter();
 
 	virtual UMageryWarsAbilitySystemComponent* GetAbilitySystemComponent() const override;
-	virtual UMageryWarsAttributeSet* GetAttributes() const;
+	virtual UMageryWarsAttributeSet* GetAttributeSet() const;
 
+	virtual void OnRep_PlayerState() override;
+	virtual void PossessedBy(AController* NewController) override;
+	
 protected:
 	// Called when the game starts or when spawned
 	virtual void BeginPlay() override;
@@ -27,6 +30,11 @@ protected:
 	UMageryWarsAbilitySystemComponent* AbilitySystemComponent;
 	UPROPERTY(VisibleAnywhere, BlueprintReadOnly, Category = "Attributes", meta = (AllowPrivateAccess = "true"))
 	UMageryWarsAttributeSet* Attributes;
+
+	UPROPERTY(EditDefaultsOnly, Category = "Ability System | Abilities")
+	TArray<TSubclassOf<UGameplayAbility>> DefaultAbilities;
+	
+	void GiveDefaultAbilities();
 
 public:	
 	// Called every frame

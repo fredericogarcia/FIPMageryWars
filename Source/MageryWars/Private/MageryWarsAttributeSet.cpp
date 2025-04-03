@@ -9,9 +9,6 @@ UMageryWarsAttributeSet::UMageryWarsAttributeSet()
 
 	InitCurrentMana(100.f);
 	InitMaxMana(100.f);
-
-	InitHealthRegeneration(1.f);
-	InitManaRegeneration(1.f);
 }
 
 void UMageryWarsAttributeSet::OnRep_CurrentHealth(const FGameplayAttributeData& OldCurrentHealth)
@@ -32,16 +29,6 @@ void UMageryWarsAttributeSet::OnRep_CurrentMana(const FGameplayAttributeData& Ol
 void UMageryWarsAttributeSet::OnRep_MaxMana(const FGameplayAttributeData& OldMaxMana)
 {
 	GAMEPLAYATTRIBUTE_REPNOTIFY(UMageryWarsAttributeSet, MaxMana, OldMaxMana);
-}
-
-void UMageryWarsAttributeSet::OnRep_HealthRegeneration(const FGameplayAttributeData& OldHealthRegeneration)
-{
-	GAMEPLAYATTRIBUTE_REPNOTIFY(UMageryWarsAttributeSet, CurrentHealth, OldHealthRegeneration);
-}
-
-void UMageryWarsAttributeSet::OnRep_ManaRegeneration(const FGameplayAttributeData& OldManaRegeneration)
-{
-	GAMEPLAYATTRIBUTE_REPNOTIFY(UMageryWarsAttributeSet, CurrentHealth, OldManaRegeneration);
 }
 
 void UMageryWarsAttributeSet::PreAttributeChange(const FGameplayAttribute& Attribute, float& NewValue)
@@ -84,7 +71,4 @@ void UMageryWarsAttributeSet::GetLifetimeReplicatedProps(TArray<FLifetimePropert
 
 	DOREPLIFETIME_CONDITION_NOTIFY(UMageryWarsAttributeSet, CurrentMana, COND_None, REPNOTIFY_Always);
 	DOREPLIFETIME_CONDITION_NOTIFY(UMageryWarsAttributeSet, MaxMana, COND_None, REPNOTIFY_Always);
-	
-	DOREPLIFETIME_CONDITION_NOTIFY(UMageryWarsAttributeSet, HealthRegeneration, COND_None, REPNOTIFY_Always);
-	DOREPLIFETIME_CONDITION_NOTIFY(UMageryWarsAttributeSet, ManaRegeneration, COND_None, REPNOTIFY_Always);
 }

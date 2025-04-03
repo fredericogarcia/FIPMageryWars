@@ -26,8 +26,9 @@
 DECLARE_LOG_CATEGORY_EXTERN(AdvancedSessionsLog, Log, All);
 
 
+//class UAdvancedSessionsLibrary : public UBlueprintFunctionLibrary
 UCLASS()
-class UAdvancedSessionsLibrary : public UBlueprintFunctionLibrary
+class ADVANCEDSESSIONS_API UAdvancedSessionsLibrary : public UBlueprintFunctionLibrary
 {
 	GENERATED_BODY()
 public:
