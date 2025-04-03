@@ -8,7 +8,6 @@
 #include "C:/Development/MageryWars/Plugins/AdvancedSessions/AdvancedSessions/Source/AdvancedSessions/Private/AdvancedFriendsLibrary.cpp"
 #include "C:/Development/MageryWars/Plugins/AdvancedSessions/AdvancedSessions/Source/AdvancedSessions/Private/AdvancedIdentityLibrary.cpp"
 #include "C:/Development/MageryWars/Plugins/AdvancedSessions/AdvancedSessions/Source/AdvancedSessions/Private/AdvancedSessions.cpp"
-#include "C:/Development/MageryWars/Plugins/AdvancedSessions/AdvancedSessions/Source/AdvancedSessions/Private/AdvancedSessionsLibrary.cpp"
 #include "C:/Development/MageryWars/Plugins/AdvancedSessions/AdvancedSessions/Source/AdvancedSessions/Private/AdvancedVoiceLibrary.cpp"
 #include "C:/Development/MageryWars/Plugins/AdvancedSessions/AdvancedSessions/Source/AdvancedSessions/Private/AutoLoginUserCallbackProxy.cpp"
 #include "C:/Development/MageryWars/Plugins/AdvancedSessions/AdvancedSessions/Source/AdvancedSessions/Private/CancelFindSessionsCallbackProxy.cpp"

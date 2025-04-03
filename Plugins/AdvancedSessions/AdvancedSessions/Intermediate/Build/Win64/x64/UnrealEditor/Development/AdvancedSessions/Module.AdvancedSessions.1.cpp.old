@@ -5,5 +5,3 @@
 #include "C:/Development/MageryWars/Plugins/AdvancedSessions/AdvancedSessions/Intermediate/Build/Win64/UnrealEditor/Inc/AdvancedSessions/UHT/AdvancedFriendsLibrary.gen.cpp"
 #include "C:/Development/MageryWars/Plugins/AdvancedSessions/AdvancedSessions/Intermediate/Build/Win64/UnrealEditor/Inc/AdvancedSessions/UHT/AdvancedGameSession.gen.cpp"
 #include "C:/Development/MageryWars/Plugins/AdvancedSessions/AdvancedSessions/Intermediate/Build/Win64/UnrealEditor/Inc/AdvancedSessions/UHT/AdvancedIdentityLibrary.gen.cpp"
-#include "C:/Development/MageryWars/Plugins/AdvancedSessions/AdvancedSessions/Intermediate/Build/Win64/UnrealEditor/Inc/AdvancedSessions/UHT/AdvancedSessions.init.gen.cpp"
-#include "C:/Development/MageryWars/Plugins/AdvancedSessions/AdvancedSessions/Intermediate/Build/Win64/UnrealEditor/Inc/AdvancedSessions/UHT/AdvancedSessionsLibrary.gen.cpp"

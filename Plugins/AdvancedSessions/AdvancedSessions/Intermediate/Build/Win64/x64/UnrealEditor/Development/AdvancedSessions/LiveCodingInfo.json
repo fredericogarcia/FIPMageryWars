@@ -37,6 +37,7 @@
 			"AdvancedFriendsLibrary.cpp.obj",
 			"AdvancedIdentityLibrary.cpp.obj",
 			"AdvancedSessions.cpp.obj",
+			"AdvancedSessionsLibrary.cpp.obj",
 			"AdvancedVoiceLibrary.cpp.obj",
 			"AutoLoginUserCallbackProxy.cpp.obj",
 			"CancelFindSessionsCallbackProxy.cpp.obj",
@@ -51,8 +52,7 @@
 			"LogoutUserCallbackProxy.cpp.obj",
 			"SendFriendInviteCallbackProxy.cpp.obj",
 			"StartSessionCallbackProxyAdvanced.cpp.obj",
-			"UpdateSessionCallbackProxyAdvanced.cpp.obj",
-			"AdvancedSessionsLibrary.cpp.obj"
+			"UpdateSessionCallbackProxyAdvanced.cpp.obj"
 		]
 	}
 }
