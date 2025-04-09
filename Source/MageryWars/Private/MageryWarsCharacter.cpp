@@ -1,5 +1,5 @@
 #include "MageryWarsCharacter.h"
-#include "MageryWarsPlayerState.h"
+#include "System/MageryWarsPlayerState.h"
 
 
 // Sets default values
