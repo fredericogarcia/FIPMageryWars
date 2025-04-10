@@ -12,15 +12,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="57e2eeb4-b898-4b86-a1ee-f6b9518f0204" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.MageryWars/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.MageryWars/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/_MageryWars/Widgets/W_HUD.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_MageryWars/Widgets/W_HUD.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/_MageryWars/Widgets/W_Spell.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_MageryWars/Widgets/W_Spell.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Plugins/AdvancedSessions/AdvancedSessions/Intermediate/Build/Win64/UnrealEditor/Inc/AdvancedSessions/UHT/Timestamp" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/AdvancedSessions/AdvancedSessions/Intermediate/Build/Win64/UnrealEditor/Inc/AdvancedSessions/UHT/Timestamp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Plugins/AdvancedSessions/AdvancedSteamSessions/Intermediate/Build/Win64/UnrealEditor/Inc/AdvancedSteamSessions/UHT/Timestamp" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/AdvancedSessions/AdvancedSteamSessions/Intermediate/Build/Win64/UnrealEditor/Inc/AdvancedSteamSessions/UHT/Timestamp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Plugins/Developer/RiderLink/Intermediate/FileSystemMappings.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/Developer/RiderLink/Intermediate/FileSystemMappings.ini" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/MageryWars/Public/MageryWarsCharacter.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/MageryWars/Public/MageryWarsCharacter.h" afterDir="false" />
-    </list>
+    <list default="true" id="57e2eeb4-b898-4b86-a1ee-f6b9518f0204" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -208,7 +200,7 @@
       <workItem from="1744214506699" duration="943000" />
       <workItem from="1744304187133" duration="1454000" />
       <workItem from="1744307164791" duration="170000" />
-      <workItem from="1744310553280" duration="693000" />
+      <workItem from="1744310553280" duration="1291000" />
     </task>
     <servers />
   </component>
