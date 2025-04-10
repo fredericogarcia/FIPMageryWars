@@ -14,7 +14,11 @@
   <component name="ChangeListManager">
     <list default="true" id="57e2eeb4-b898-4b86-a1ee-f6b9518f0204" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.MageryWars/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.MageryWars/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/_MageryWars/Blueprints/BP_PlayerCharacter.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_MageryWars/Blueprints/BP_PlayerCharacter.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Config/DefaultEngine.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Config/DefaultEngine.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/_MageryWars/Blueprints/BP_ArenaPortal.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_MageryWars/Blueprints/BP_ArenaPortal.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plugins/AdvancedSessions/AdvancedSessions/Intermediate/Build/Win64/UnrealGame/Inc/AdvancedSessions/UHT/Timestamp" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/AdvancedSessions/AdvancedSessions/Intermediate/Build/Win64/UnrealGame/Inc/AdvancedSessions/UHT/Timestamp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plugins/AdvancedSessions/AdvancedSteamSessions/Intermediate/Build/Win64/UnrealGame/Inc/AdvancedSteamSessions/UHT/Timestamp" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/AdvancedSessions/AdvancedSteamSessions/Intermediate/Build/Win64/UnrealGame/Inc/AdvancedSteamSessions/UHT/Timestamp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plugins/Developer/RiderLink/Intermediate/FileSystemMappings.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/Developer/RiderLink/Intermediate/FileSystemMappings.ini" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -201,6 +205,7 @@
       <workItem from="1743693213848" duration="1386000" />
       <workItem from="1743769865483" duration="709000" />
       <workItem from="1744214506699" duration="943000" />
+      <workItem from="1744304187133" duration="1454000" />
     </task>
     <servers />
   </component>
