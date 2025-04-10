@@ -23,7 +23,7 @@ public:
 	virtual void PossessedBy(AController* NewController) override;
 	
 protected:
-	// Called when the game starts or when spawned
+	// Called when the game starts or when spawned.
 	virtual void BeginPlay() override;
 
 	UPROPERTY(VisibleAnywhere, BlueprintReadOnly, Category = "Abilities", meta = (AllowPrivateAccess = "true"))
