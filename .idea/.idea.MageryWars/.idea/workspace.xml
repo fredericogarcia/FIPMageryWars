@@ -13,17 +13,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="57e2eeb4-b898-4b86-a1ee-f6b9518f0204" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.MageryWars/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.MageryWars/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Config/DefaultGameplayTags.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Config/DefaultGameplayTags.ini" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Maps/Map_World.umap" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Maps/Map_World.umap" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/_MageryWars/Abilities/MagicArrow/GE_Cooldown_MagicArrow.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_MageryWars/Abilities/MagicArrow/GE_Cooldown_MagicArrow.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/_MageryWars/Blueprints/BP_PlayerCharacter.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_MageryWars/Blueprints/BP_PlayerCharacter.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/_MageryWars/Data/DT_Spellbook.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_MageryWars/Data/DT_Spellbook.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/_MageryWars/Data/F_Spellbook.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_MageryWars/Data/F_Spellbook.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/_MageryWars/Widgets/W_HUD.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_MageryWars/Widgets/W_HUD.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/_MageryWars/Widgets/W_SmallHealthAndMana.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_MageryWars/Widgets/W_SmallHealthAndMana.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/_MageryWars/Widgets/W_SpellBookSpell.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_MageryWars/Widgets/W_SpellBookSpell.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Plugins/Developer/RiderLink/Intermediate/FileSystemMappings.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/Developer/RiderLink/Intermediate/FileSystemMappings.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/_MageryWars/Abilities/MagicArrow/BP_MagicArrow.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_MageryWars/Abilities/MagicArrow/BP_MagicArrow.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/_MageryWars/Abilities/Poison/BP_Poison.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_MageryWars/Abilities/Poison/BP_Poison.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/_MageryWars/Abilities/Poison/GC_Poison.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_MageryWars/Abilities/Poison/GC_Poison.uasset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
