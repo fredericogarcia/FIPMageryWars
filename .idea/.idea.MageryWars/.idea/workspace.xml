@@ -12,7 +12,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="57e2eeb4-b898-4b86-a1ee-f6b9518f0204" name="Changes" comment="" />
+    <list default="true" id="57e2eeb4-b898-4b86-a1ee-f6b9518f0204" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.MageryWars/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.MageryWars/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Maps/Map_World.umap" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Maps/Map_World.umap" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/_MageryWars/Abilities/Paralyze/GA_Paralyze.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_MageryWars/Abilities/Paralyze/GA_Paralyze.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/_MageryWars/Abilities/Regeneration/GE_ManaRegeneration.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_MageryWars/Abilities/Regeneration/GE_ManaRegeneration.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/_MageryWars/Abilities/Teleport/GE_IntoArena.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_MageryWars/Abilities/Teleport/GE_IntoArena.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/_MageryWars/Blueprints/BP_ArenaPortal.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_MageryWars/Blueprints/BP_ArenaPortal.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/_MageryWars/Blueprints/BP_PlayerCharacter.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_MageryWars/Blueprints/BP_PlayerCharacter.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/_MageryWars/Modes/Game/BP_Core_GameMode.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_MageryWars/Modes/Game/BP_Core_GameMode.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/_MageryWars/Widgets/W_HUD.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_MageryWars/Widgets/W_HUD.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plugins/Developer/RiderLink/Intermediate/FileSystemMappings.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/Developer/RiderLink/Intermediate/FileSystemMappings.ini" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -200,7 +211,8 @@
       <workItem from="1744214506699" duration="943000" />
       <workItem from="1744304187133" duration="1454000" />
       <workItem from="1744307164791" duration="170000" />
-      <workItem from="1744310553280" duration="1291000" />
+      <workItem from="1744310553280" duration="3915000" />
+      <workItem from="1744397366632" duration="1914000" />
     </task>
     <servers />
   </component>
