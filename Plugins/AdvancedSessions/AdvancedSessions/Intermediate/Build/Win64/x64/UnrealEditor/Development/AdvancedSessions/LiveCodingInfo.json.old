@@ -30,7 +30,6 @@
 		"Module.AdvancedSessions.3.cpp.obj": [
 			"StartSessionCallbackProxyAdvanced.gen.cpp.obj",
 			"UpdateSessionCallbackProxyAdvanced.gen.cpp.obj",
-			"PerModuleInline.gen.cpp.obj",
 			"AdvancedExternalUILibrary.cpp.obj",
 			"AdvancedFriendsGameInstance.cpp.obj",
 			"AdvancedFriendsInterface.cpp.obj",
@@ -52,7 +51,8 @@
 			"LogoutUserCallbackProxy.cpp.obj",
 			"SendFriendInviteCallbackProxy.cpp.obj",
 			"StartSessionCallbackProxyAdvanced.cpp.obj",
-			"UpdateSessionCallbackProxyAdvanced.cpp.obj"
+			"UpdateSessionCallbackProxyAdvanced.cpp.obj",
+			"PerModuleInline.gen.cpp.obj"
 		]
 	}
 }
