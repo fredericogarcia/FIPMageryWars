@@ -7,8 +7,8 @@ UMageryWarsAttributeSet::UMageryWarsAttributeSet()
 	InitCurrentHealth(200.f);
 	InitMaxHealth(200.f);
 
-	InitCurrentMana(500.f);
-	InitMaxMana(150.f);
+	InitCurrentMana(200.f);
+	InitMaxMana(200.f);
 }
 
 void UMageryWarsAttributeSet::OnRep_CurrentHealth(const FGameplayAttributeData& OldCurrentHealth)
@@ -25,7 +25,7 @@ void UMageryWarsAttributeSet::OnRep_CurrentMana(const FGameplayAttributeData& Ol
 {
 	GAMEPLAYATTRIBUTE_REPNOTIFY(UMageryWarsAttributeSet, CurrentMana, OldCurrentMana);
 }
-
+ 
 void UMageryWarsAttributeSet::OnRep_MaxMana(const FGameplayAttributeData& OldMaxMana)
 {
 	GAMEPLAYATTRIBUTE_REPNOTIFY(UMageryWarsAttributeSet, MaxMana, OldMaxMana);
