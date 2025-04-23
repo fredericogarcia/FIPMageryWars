@@ -12,7 +12,44 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="57e2eeb4-b898-4b86-a1ee-f6b9518f0204" name="Changes" comment="" />
+    <list default="true" id="57e2eeb4-b898-4b86-a1ee-f6b9518f0204" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.MageryWars/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.MageryWars/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/AdvancedVillagePack/NewActorFoliage.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/AdvancedVillagePack/NewActorFoliage.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Maps/Map_AVP_Build.umap" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Maps/Map_AVP_Build.umap" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Maps/Map_Lobby.umap" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Maps/Map_Lobby.umap" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/_MageryWars/Abilities/Bubble/GE_BubbleCost.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_MageryWars/Abilities/Bubble/GE_BubbleCost.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/_MageryWars/Abilities/Flamestrike/GA_Flamestrike.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_MageryWars/Abilities/Flamestrike/GA_Flamestrike.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/_MageryWars/Abilities/Flamestrike/GE_Cooldown_Flamestrike.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_MageryWars/Abilities/Flamestrike/GE_Cooldown_Flamestrike.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/_MageryWars/Abilities/Flamestrike/GE_Flamestrike.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_MageryWars/Abilities/Flamestrike/GE_Flamestrike.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/_MageryWars/Abilities/Flamestrike/GE_FlamestrikeCost.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_MageryWars/Abilities/Flamestrike/GE_FlamestrikeCost.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/_MageryWars/Abilities/GreaterHeal/GE_GreaterHealCost.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_MageryWars/Abilities/GreaterHeal/GE_GreaterHealCost.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/_MageryWars/Abilities/Harm/GA_Harm.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_MageryWars/Abilities/Harm/GA_Harm.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/_MageryWars/Abilities/Harm/GE_HarmCost.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_MageryWars/Abilities/Harm/GE_HarmCost.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/_MageryWars/Abilities/Heal/GE_HealCost.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_MageryWars/Abilities/Heal/GE_HealCost.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/_MageryWars/Abilities/MagicArrow/GA_MagicArrow.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_MageryWars/Abilities/MagicArrow/GA_MagicArrow.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/_MageryWars/Abilities/Paralyze/GA_Paralyze.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_MageryWars/Abilities/Paralyze/GA_Paralyze.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/_MageryWars/Abilities/Paralyze/GE_Cooldown_Paralyze.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_MageryWars/Abilities/Paralyze/GE_Cooldown_Paralyze.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/_MageryWars/Abilities/Poison/GA_Poison.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_MageryWars/Abilities/Poison/GA_Poison.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/_MageryWars/Abilities/Poison/GE_Cooldown_Poison.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_MageryWars/Abilities/Poison/GE_Cooldown_Poison.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/_MageryWars/Abilities/Poison/GE_PoisonCost.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_MageryWars/Abilities/Poison/GE_PoisonCost.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/_MageryWars/Abilities/Regeneration/GE_HealthRegeneration.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_MageryWars/Abilities/Regeneration/GE_HealthRegeneration.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/_MageryWars/Abilities/Regeneration/GE_ManaRegeneration.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_MageryWars/Abilities/Regeneration/GE_ManaRegeneration.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/_MageryWars/Blueprints/BP_GameInstance.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_MageryWars/Blueprints/BP_GameInstance.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/_MageryWars/Blueprints/BP_PlayerCharacter.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_MageryWars/Blueprints/BP_PlayerCharacter.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/_MageryWars/Blueprints/BP_Portal_Entry.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_MageryWars/Blueprints/BP_Portal_Entry.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/_MageryWars/Blueprints/BP_Portal_Entry_Locator.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_MageryWars/Blueprints/BP_Portal_Entry_Locator.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/_MageryWars/Blueprints/BP_Portal_Exit.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_MageryWars/Blueprints/BP_Portal_Exit.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/_MageryWars/Blueprints/Potions/BP_PotionSpawner.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_MageryWars/Blueprints/Potions/BP_PotionSpawner.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/_MageryWars/Data/DT_Spellbook.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_MageryWars/Data/DT_Spellbook.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/_MageryWars/Modes/Game/BP_GameState.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_MageryWars/Modes/Game/BP_GameState.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/_MageryWars/Widgets/W_Settings.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_MageryWars/Widgets/W_Settings.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plugins/AdvancedSessions/AdvancedSessions/Intermediate/Build/Win64/UnrealEditor/Inc/AdvancedSessions/UHT/Timestamp" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/AdvancedSessions/AdvancedSessions/Intermediate/Build/Win64/UnrealEditor/Inc/AdvancedSessions/UHT/Timestamp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plugins/AdvancedSessions/AdvancedSessions/Intermediate/Build/Win64/UnrealGame/Inc/AdvancedSessions/UHT/Timestamp" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/AdvancedSessions/AdvancedSessions/Intermediate/Build/Win64/UnrealGame/Inc/AdvancedSessions/UHT/Timestamp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plugins/AdvancedSessions/AdvancedSteamSessions/Intermediate/Build/Win64/UnrealEditor/Inc/AdvancedSteamSessions/UHT/Timestamp" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/AdvancedSessions/AdvancedSteamSessions/Intermediate/Build/Win64/UnrealEditor/Inc/AdvancedSteamSessions/UHT/Timestamp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plugins/AdvancedSessions/AdvancedSteamSessions/Intermediate/Build/Win64/UnrealGame/Inc/AdvancedSteamSessions/UHT/Timestamp" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/AdvancedSessions/AdvancedSteamSessions/Intermediate/Build/Win64/UnrealGame/Inc/AdvancedSteamSessions/UHT/Timestamp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plugins/Developer/RiderLink/Intermediate/FileSystemMappings.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/Developer/RiderLink/Intermediate/FileSystemMappings.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/MageryWars/Private/MageryWarsAttributeSet.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/MageryWars/Private/MageryWarsAttributeSet.cpp" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,6 +70,9 @@
     <setting file="file://$PROJECT_DIR$/../../Program Files/Epic Games/UE_5.5/Engine/Source/Runtime/Engine/Private/PlayerState.cpp" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../../Program Files/Epic Games/UE_5.5/Engine/Source/Runtime/Experimental/Voronoi/Private/voro++/src/c_loops.cc" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../../Program Files/Epic Games/UE_5.5/Engine/Source/Runtime/GameplayTags/Classes/BlueprintGameplayTagLibrary.h" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
@@ -61,6 +101,11 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RiderProblemsViewState">
+    <hideBySeverity>
+      <option value="300" />
+    </hideBySeverity>
+  </component>
   <component name="RunManager" selected="C/C++ Project.MageryWars">
     <configuration name="MageryWars" type="CppProject" factoryName="C++ Project">
       <configuration_1 setup="1">
@@ -211,7 +256,11 @@
       <workItem from="1744830108034" duration="2296000" />
       <workItem from="1744896349625" duration="1132000" />
       <workItem from="1745342396021" duration="1436000" />
-      <workItem from="1745400026973" duration="782000" />
+      <workItem from="1745400026973" duration="1098000" />
+      <workItem from="1745404960826" duration="384000" />
+      <workItem from="1745407230490" duration="267000" />
+      <workItem from="1745407519880" duration="717000" />
+      <workItem from="1745418676589" duration="1517000" />
     </task>
     <servers />
   </component>

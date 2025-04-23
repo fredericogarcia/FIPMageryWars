@@ -7,8 +7,8 @@ UMageryWarsAttributeSet::UMageryWarsAttributeSet()
 	InitCurrentHealth(200.f);
 	InitMaxHealth(200.f);
 
-	InitCurrentMana(200.f);
-	InitMaxMana(200.f);
+	InitCurrentMana(150.f);
+	InitMaxMana(150.f);
 }
 
 void UMageryWarsAttributeSet::OnRep_CurrentHealth(const FGameplayAttributeData& OldCurrentHealth)
