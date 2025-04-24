@@ -14,16 +14,15 @@
   <component name="ChangeListManager">
     <list default="true" id="57e2eeb4-b898-4b86-a1ee-f6b9518f0204" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.MageryWars/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.MageryWars/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Config/DefaultEngine.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Config/DefaultEngine.ini" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Config/DefaultGame.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Config/DefaultGame.ini" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Maps/Map_AVP_Build.umap" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Maps/Map_AVP_Build.umap" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/_MageryWars/Abilities/Potions/GE_HealthPotion.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_MageryWars/Abilities/Potions/GE_HealthPotion.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/_MageryWars/Abilities/Potions/GE_ManaPotion.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_MageryWars/Abilities/Potions/GE_ManaPotion.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/_MageryWars/Abilities/Regeneration/GE_ManaRegeneration.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_MageryWars/Abilities/Regeneration/GE_ManaRegeneration.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/_MageryWars/Abilities/_Arena/GE_Respawn.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_MageryWars/Abilities/_Arena/GE_Respawn.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/MixedVFX/Particles/Projectiles/NS_FireArrow.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/MixedVFX/Particles/Projectiles/NS_FireArrow.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/ThirdPerson/Input/IMC_Default.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/ThirdPerson/Input/IMC_Default.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/_MageryWars/Abilities/_Arena/GE_SuddenDeath.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_MageryWars/Abilities/_Arena/GE_SuddenDeath.uasset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Content/_MageryWars/Blueprints/BP_PlayerCharacter.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_MageryWars/Blueprints/BP_PlayerCharacter.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/_MageryWars/Blueprints/BP_Portal_Exit.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_MageryWars/Blueprints/BP_Portal_Exit.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/_MageryWars/Widgets/W_Lobby.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_MageryWars/Widgets/W_Lobby.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/_MageryWars/Blueprints/BP_PlayerController.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_MageryWars/Blueprints/BP_PlayerController.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/_MageryWars/Data/DT_Spellbook.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_MageryWars/Data/DT_Spellbook.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/_MageryWars/Modes/Game/BP_Core_GameMode.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_MageryWars/Modes/Game/BP_Core_GameMode.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/_MageryWars/Modes/Game/BP_GameState.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_MageryWars/Modes/Game/BP_GameState.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/_MageryWars/Widgets/W_HUD.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_MageryWars/Widgets/W_HUD.uasset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Plugins/AdvancedSessions/AdvancedSessions/Intermediate/Build/Win64/UnrealGame/Inc/AdvancedSessions/UHT/Timestamp" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/AdvancedSessions/AdvancedSessions/Intermediate/Build/Win64/UnrealGame/Inc/AdvancedSessions/UHT/Timestamp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Plugins/AdvancedSessions/AdvancedSteamSessions/Intermediate/Build/Win64/UnrealGame/Inc/AdvancedSteamSessions/UHT/Timestamp" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/AdvancedSessions/AdvancedSteamSessions/Intermediate/Build/Win64/UnrealGame/Inc/AdvancedSteamSessions/UHT/Timestamp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Plugins/Developer/RiderLink/Intermediate/FileSystemMappings.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/Developer/RiderLink/Intermediate/FileSystemMappings.ini" afterDir="false" />
@@ -240,7 +239,9 @@
       <workItem from="1745407519880" duration="717000" />
       <workItem from="1745418676589" duration="1517000" />
       <workItem from="1745430727360" duration="836000" />
-      <workItem from="1745482661828" duration="683000" />
+      <workItem from="1745482661828" duration="5414000" />
+      <workItem from="1745502929753" duration="211000" />
+      <workItem from="1745503216777" duration="1028000" />
     </task>
     <servers />
   </component>
